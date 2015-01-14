@@ -1,0 +1,75 @@
+body { 
+	font: 16px Helvetica ,Sans-serif
+}
+#container{
+	margin:20px 60px 60px 40px;
+	background-color:  lightgray;
+	padding:0 100px 20px 100px;
+
+}
+
+#content-contact{
+	margin: 0 0 20px 0;
+	padding: 20px 0 20px 0;
+}
+
+#content-introduction{
+	border-top: 3px solid #0088dd;
+	margin: 0 0 20px 0;
+	padding:0 0 20px 0;
+	font-style: italic;
+	font-size: 20px;
+	
+}
+
+a{
+	color:#0088dd;	
+}
+
+
+a:hover{ 
+background-color:ghostwhite;
+border:1px solid black;
+}
+
+h1{
+	color: #0088dd;
+	font-size: 45px;
+	font-weight: lighter;
+	margin-top: 25px;
+	margin-bottom: -10px;
+}
+
+h2{
+	font-weight: lighter;
+	font-size: 20px;
+	margin-bottom: -20px;
+}
+
+#content-experienceheader{
+	font-size: 25px;
+	
+}
+
+h3{
+	font-size:20px;
+	border-bottom: 1px solid #0088dd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
