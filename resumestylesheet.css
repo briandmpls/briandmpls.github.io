@@ -56,24 +56,24 @@ h3{
 	border-bottom: 1px solid #0088dd;
 }
 .examples{
-	width:220px;
+	width:320px;
 	float:left;
 	margin:10px;
-	height:200;
+	height:300;
 }
 
 figure{
 	display:block;
-	width:202;
-	height:170;
+	width:302;
+	height:270;
 	margin:0;
 	padding:9px;
 	text-align: left;
 }
 
 figure img{
-	width:200px;
-	height:200px;
+	width:300px;
+	height:300px;
 }
 
 figurecaption{
