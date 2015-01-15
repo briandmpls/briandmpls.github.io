@@ -55,7 +55,12 @@ h3{
 	font-size:20px;
 	border-bottom: 1px solid #0088dd;
 }
-
+.images{
+	width:320px;
+	float:left;
+	margin:10px;
+	height:330;
+}
 figure img{
 	width:300px;
 	height:300px;
