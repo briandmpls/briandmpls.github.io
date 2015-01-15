@@ -63,7 +63,7 @@ h3{
 }
 
 figure{
-	display: inline;
+	display:block;
 	width:302;
 	height:320;
 	margin:0;
