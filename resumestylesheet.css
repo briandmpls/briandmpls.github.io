@@ -62,7 +62,7 @@ figure img{
 }
 
 figure{
-	display: block;
+	display: inline;
 	width:302;
 	height:320;
 	margin:0;
