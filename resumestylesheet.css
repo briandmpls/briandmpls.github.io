@@ -62,7 +62,12 @@ figure img{
 }
 
 figure{
-	display: inline;
+	display: block;
+	width:302;
+	height:320;
+	margin:0;
+	padding:9px;
+	text-align:left;
 }
 
 
