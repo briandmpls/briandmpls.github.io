@@ -52,6 +52,7 @@ h2{
 }
 
 h3{
+	font-weight:lighter;
 	font-size:20px;
 	border-bottom: 1px solid #0088dd;
 }
