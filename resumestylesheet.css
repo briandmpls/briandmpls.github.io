@@ -9,13 +9,12 @@ body {
 	padding:0 100px 20px 100px;
 	border-radius:8px;
 }
-p.address{
-	margin-bottom:-10px;
-}
+
 
 #content-contact{
 	margin: 0 0 20px 0;
 	padding: 20px 0 20px 0;
+	margin-bottom:-10px;
 }
 
 #content-introduction{
