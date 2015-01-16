@@ -18,7 +18,7 @@ body {
 
 #content-introduction{
 	border-top: 3px solid #0088dd;
-	margin: 0 0 20px 0;
+	margin: 0 0 0 0;
 	padding:0 0 20px 0;
 	font-size: 14px;
 }
@@ -42,12 +42,6 @@ h1{
 	margin-bottom: -10px;
 }
 
-h2{
-	font-weight: lighter;
-	font-size: 20px;
-	margin-bottom: -20px;
-	line-height:1.3em;
-}
 
 .content-experienceheader{
 	margin:30px 0 0 0;
