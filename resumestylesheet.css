@@ -2,12 +2,11 @@ body {
 	font: 14px Helvetica ,Sans-serif;
 	font-weight:lighter;
 }
+
 #container{
 	margin:20px 60px 60px 40px;
 	background-color:  lightgray;
 	padding:0 100px 20px 100px;
-
-
 }
 
 #content-contact{
@@ -22,9 +21,6 @@ body {
 	font-size: 20px;
 }
 
-#address{
-	line-height:1.5em;
-}
 
 a{
 	color:#0088dd;	
@@ -52,13 +48,13 @@ h2{
 
 #content-experienceheader{
 	font-size: 25px;
-	
 }
 
 h3{
 	font-size:20px;
 	border-bottom: 1px solid #0088dd;
 }
+
 .examples{
 	width:320px;
 	float:left;
