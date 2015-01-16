@@ -13,15 +13,14 @@ body {
 #content-contact{
 	margin: 0 0 20px 0;
 	padding: 20px 0 20px 0;
+	line-height:1.5em;
 }
 
 #content-introduction{
 	border-top: 3px solid #0088dd;
 	margin: 0 0 20px 0;
 	padding:0 0 20px 0;
-	font-style: italic;
 	font-size: 20px;
-	
 }
 
 a{
@@ -68,7 +67,7 @@ figure{
 	display:block;
 	width:302;
 	height:270;
-	margin:0;
+	margin:10px;
 	padding:9px;
 	text-align: left;
 }
