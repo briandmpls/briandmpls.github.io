@@ -1,5 +1,6 @@
 body { 
-	font: 16px Helvetica ,Sans-serif
+	font: 16px Helvetica ,Sans-serif;
+	font-weight:lighter;
 }
 #container{
 	margin:20px 60px 60px 40px;
