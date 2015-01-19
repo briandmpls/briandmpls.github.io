@@ -32,14 +32,10 @@ body {
 	margin: 0 0 0 80px;
 }
 
-#clientlist1{
-	float: left;
+#clientlist{
 	margin:0 0 0 80px;
 }
 
-#clientlist2{
-	float: right;
-}
 
 a{
 	color:#0088dd;	
