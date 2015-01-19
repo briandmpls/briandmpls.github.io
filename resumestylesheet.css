@@ -23,6 +23,11 @@ body {
 	font-size: 14px;
 }
 
+
+#projectsheader{
+	margin:0 0 0 40px;
+}
+
 .projects{
 	margin: 0 0 0 100px;
 }
