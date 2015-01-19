@@ -34,7 +34,7 @@ a{
 
 
 a:hover{ 
-background-color:ghostwhite;
+font-weight:bold;
 border:1px solid black;
 }
 
