@@ -41,6 +41,9 @@ a{
 	color:#0088dd;	
 }
 
+a:hover{
+	border:.5px solid #0088dd;
+}
 
 h1{
 	color: #0088dd;
